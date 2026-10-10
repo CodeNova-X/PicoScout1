@@ -1,22 +1,38 @@
-PicoScout Hardware Notice
+# PicoScout Hardware Notice
 
 Copyright © 2026 CodeNova-X.
 
-The PicoScout hardware design files are provided under the CERN-OHL-P-2.0
-license. Please retain this notice when copying or redistributing the original
-design files.
+PicoScout is an open-source hardware project. The original PicoScout hardware
+design files are licensed under the CERN-OHL-P-2.0 open hardware license.
 
-If you modify and redistribute these files, please clearly identify that you
-made modifications and include the date and a brief description of the changes,
-as required by the CERN-OHL-P-2.0 license.
+You may copy, modify, build, sell, and distribute products based on this design,
+provided that you comply with CERN-OHL-P-2.0 and retain the applicable notices.
 
-“PicoScout” and associated project branding identify the original CodeNova-X
-project. Products based on these hardware files may be made and sold under the
-license, but use of the PicoScout name, logo, or other branding must not imply
-that a modified or commercial product is official, endorsed, or produced by
-CodeNova-X without permission.
+If you modify and redistribute these design files, you must:
 
-If you manufacture or sell a product based on the PicoScout hardware, we would
-appreciate being notified so we can list community and commercial projects.
-Notification is voluntary and is not a condition of the CERN-OHL-P-2.0 license.
-Failure to notify does not revoke or limit any rights granted by that license.
+- retain all existing copyright, attribution, and license notices;
+- add a notice stating that you modified the design;
+- include the date and a brief description of your changes; and
+- ensure that the recipient has access to the applicable notices.
+
+You may not present the original PicoScout design as your own work while
+removing or failing to preserve the applicable attribution and license notices.
+You may describe your version as a modified version of the PicoScout design,
+but should clearly distinguish your modifications from the original work.
+
+“PicoScout” and related project branding identify the CodeNova-X project. Use of
+the PicoScout name, logo, or other branding must not imply endorsement, official
+status, or production by CodeNova-X unless permission has been granted.
+
+If you manufacture or sell a product based on this open-source hardware design,
+we would appreciate being notified so we can track community and commercial
+projects. This notification is voluntary and is not a condition of the
+CERN-OHL-P-2.0 license. Failure to notify does not revoke or limit any rights
+granted by CERN-OHL-P-2.0.
+
+For the complete license terms, see the accompanying CERN-OHL-P-2.0 license
+text in this repository.
+
+This notice clarifies attribution, modification, branding, and voluntary
+notification expectations. It does not replace or alter the terms of
+CERN-OHL-P-2.0.
