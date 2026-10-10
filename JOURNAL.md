@@ -53,4 +53,4 @@ This one is the 2 N20 motors (I had to design a custom footprint and everything 
 ![screenshot-2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4bZAgAzJChvltfdcABNWdCwEvUfJDmZw/df78020e37a650f5d16a9ae57eaa622f9d980e7adb56d726726e28694bb9d8cc.png)
 I found this schematic online and it helped me with the footprint and getting the right size because I do not have it yet.
 
-Ok, I know that was a lot to talk about for one journal entry but I wanted to have something to share before I started actually sharing stuff about it.
+Ok, I know that was a lot to talk about for one journal entry but I wanted to have something to share before I started actually sharing stuff about it. Also this is my first Hack Club thing so I am new to how this works. ; )
