@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# PicoScout1 Intro- 
+# PicoScout1-Intro
 <br>
 
 
@@ -21,7 +21,7 @@ PCB I have made and I did use some AI in the process to help teach me and catch 
 <br>
 
 
-# PicoScout1 “What is it?"
+# PicoScout1-“What is it?"
 <br>
 <p> &emsp; PicoScout1 is my first attempt to create a controllable camera bot that will be easy to use and customize. The special thing about PicoScout1 is its custom PCB I designed. It has a small form factor which makes it easy to fit into custom robot builds and my hope is that it can make anything into a cool robot whether it be a 3d printed chassis or other things as long as it has this custom pcb with the parts, some wheels on the 2 motors, and a body </p>
 <br>
