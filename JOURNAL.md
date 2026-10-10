@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 19h | 3 |
+| Week 1 | Tier 3 | 19.5h | 3 |
 
 ## Contents
 
@@ -78,7 +78,7 @@ I used AI to help me brainstorm because I did not want to create a project that 
 
 ### 2026-10-10 – Thursday
 
-**5h**
+**5.5h**
 
 Thursday
 
@@ -96,3 +96,9 @@ This is a close up of the Components. *Note- I designed this so that all the com
 
 ![Screenshot 2026-10-10 at 5.12.38 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4bZAgAzJChvltfdcABNWdCwEvUfJDmZw/5c202182b2f53eb9063be0ad45e9bc1dd4cd0c0320c656ba52efbca3ab08f771.png)
 The full schematic so far
+
+I almost forgot to mention, I also worked on some deco and added PicoScout on the board yet I still have some more ideas for the board like adding holes for screws
+
+![IMG_0938g5hFSQ](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4bZAgAzJChvltfdcABNWdCwEvUfJDmZw/72a968a73745be4970a5ad052ee3123caf0b5408317f00ffaa878e961bfeb00d.png)
+
+![Screenshot 2026-10-10 at 5.33.02 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/4bZAgAzJChvltfdcABNWdCwEvUfJDmZw/d216266d8ee3eae4081f5aafc2f5d393b54d00c07128135c2ab35800bda01bf2.png)
