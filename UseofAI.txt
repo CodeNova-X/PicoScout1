@@ -1,0 +1,6 @@
+I used AI for parts of this project listed below:
+  • Part Research
+  • Schematic help and verification
+  • Learning to use Github 
+
+*Note AI was only a tool in this project and all the hard work was mine
