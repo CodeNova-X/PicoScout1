@@ -14,7 +14,7 @@ MMBT3904 NPN transistor [Q1],1,PCBWay / LCSC,$0.47,$0.47,https://www.lcsc.com/pr
 SPDT slide switch (MST-12D18G4) [SW1],1,PCBWay / LCSC,$0.51,$0.51,https://www.lcsc.com/product-detail/C49023767.html
 MT3608 boost converter [U2],1,PCBWay / LCSC,$0.09,$0.09,https://www.lcsc.com/product-detail/C84817.html
 DRV8835 dual motor driver [U3],1,PCBWay / LCSC,$2.27,$2.27,https://www.lcsc.com/product-detail/C129328.html
-Seeed Studio XIAO ESP32-S3 Sense [U1] (ALREADY OWNED),1,Seeed Studio,$21.73,$21.73,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+Seeed Studio XIAO ESP32-S3 Sense [U1] (ALREADY OWNED),1,Seeed Studio,$0.01,$0.01,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
 Custom 2-layer PCB 92x31mm 1.6mm HASL (5 pcs),1,PCBWay,$5.00,$5.00,https://www.pcbway.com
 PCBWay assembly fee,1,PCBWay,$29.00,$29.00,https://www.pcbway.com
 PCBWay shipping,1,PCBWay,$33.62,$33.62,https://www.pcbway.com
