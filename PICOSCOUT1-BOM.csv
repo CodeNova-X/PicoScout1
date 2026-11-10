@@ -25,5 +25,6 @@ PCBWay DTP service fee,Service fee,7.0,1,7.0,https://www.pcbway.com,PCBWay
 N20 motors (pack of 4; 2 needed),Drive motors,12.99,1,12.99,https://www.amazon.com/dp/B0DK7635XH,Amazon
 Amazon shipping (N20 motors),Free shipping,0.0,1,0.0,https://www.amazon.com/dp/B0DK7635XH,Amazon
 Estimated sales tax (N20 motors),"Estimated 8.9% Atlanta, GA rate on $12.99",1.16,1,1.16,https://www.amazon.com/dp/B0DK7635XH,Amazon
-TOTAL (excluding owned XIAO),,,,92.57,,
-TOTAL (including owned XIAO),,,,114.3,,
+3.7V 1000mAh 102050 LiPo battery (1 of 10-pack; other 9 for other projects),Battery power source,2.80,1,2.80,https://ydlbattery.com/products/3-7v-1000mah-102050-lithium-polymer-ion-battery?variant=42093651787929,YDL Battery
+TOTAL (excluding owned XIAO),,,,95.37,,
+TOTAL (including owned XIAO),,,,117.10,,
