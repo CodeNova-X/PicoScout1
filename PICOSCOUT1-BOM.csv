@@ -1,4 +1,4 @@
-Name,Purpose,Cost per item (USD),Quantity,Total cost (USD),Link,Distributor
+Name,Purpose, Unit ,Quantity,Total cost (USD),Link,Distributor
 Molex 532610271 battery connector [Bat1],PCB component (assembled by PCBWay),0.175,1,0.175,https://www.lcsc.com/product-detail/C177225.html,PCBWay / LCSC
 22uF 1206 capacitor (Samsung CL31A226KAHNNNE) [C1],PCB component (assembled by PCBWay),3.171,1,3.171,https://www.lcsc.com/product-detail/C12891.html,PCBWay / LCSC
 "100nF 0402 capacitor (Yageo CC0402KRX7R7BB104) [C2, C4]",PCB component (assembled by PCBWay),0.067,2,0.134,https://www.lcsc.com/product-detail/C60474.html,PCBWay / LCSC
