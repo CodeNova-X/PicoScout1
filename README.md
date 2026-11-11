@@ -32,7 +32,8 @@ PCB I have made and I did use some AI in the process to help teach me and catch 
   <figcaption><sub>Top View of PicoScout1 PCB</sub></figcaption>
 </figure>
 
-
+## AI disclosure
+I used Ai to create a test code so that I can use it when I get my pcb and test it to make sure everything works.
 
 ## BOM
 | Name | Purpose | Cost per item (USD) | Quantity | Total cost (USD) | Link | Distributor |
